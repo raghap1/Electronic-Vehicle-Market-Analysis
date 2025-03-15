@@ -50,7 +50,7 @@ ________________________________________
 	- Strengthen 4-wheeler market strategy in Delhi and increase 2-wheeler outreach in Goa.
 	- Karnataka’s EV subsidies and strong infrastructure make it a great manufacturing hub, while Tamil Nadu’s 20% capital subsidy and other incentives make it an ideal choice for setting up a unit.
 	- Expanding charging infrastructure could boost EV sales in Andhra Pradesh, Karnataka, and Kerala, which also provide capital subsidies for it.
-    	- Introduce targeted marketing campaigns in underperforming regions (e.g., North East India)
+	- Introduce targeted marketing campaigns in underperforming regions (e.g., North East India)
 ________________________________________
 ## Tools Used
 1.	SQL – Data extraction, transformation, and analysis.
