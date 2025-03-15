@@ -1,4 +1,4 @@
-# Electric vehicle analysis
+# Electronic Vehicle Sales
 
 ## Problem Statement
 AtliQ Motors, a leading US-based electric vehicle (EV) manufacturer with a 25% market share in North America, aimed to expand into the Indian market, where its share is less than 2%. The chief of AtliQ Motors India, Bruce Haryali, tasked the data analytics team with conducting a detailed market study to understand the existing EV market in India and identify growth opportunities.
@@ -24,6 +24,7 @@ ________________________________________
 	- Market share by manufacturer.
 	- Recommendations for growth strategies.
 ________________________________________
+
 ## Insights & Recommendations
 - Top-selling brands:
 	- Tata Motors leads the 4-wheeler EV market; OLA dominates the 2-wheeler market.
