@@ -25,7 +25,7 @@ ________________________________________
 	- Recommendations for growth strategies.
 ________________________________________
 ## Dashboard Interaction
-<a href = "">Dashboard Link</a>
+<a href = "https://github.com/raghap1/Electronic-Vehicle-Market-Analysis/blob/main/EV%20Sales%20dashboard.pbix">Dashboard Link</a>
 
 ## Insights & Recommendations
 - Top-selling brands:
