@@ -1,13 +1,13 @@
 Electric vehicle analysis
 
-##Problem Statement
+## Problem Statement
 AtliQ Motors, a leading US-based electric vehicle (EV) manufacturer with a 25% market share in North America, aimed to expand into the Indian market where its share is less than 2%. The chief of AtliQ Motors India, Bruce Haryali, tasked the data analytics team with conducting a detailed market study to understand the existing EV market in India and identify opportunities for growth.
 Objective
 •	Analyze the EV and hybrid vehicle sales data in India to identify key trends and market opportunities.
 •	Develop a data-driven strategy to increase market penetration in India.
 •	Create an interactive dashboard to present insights to the leadership team.
 ________________________________________
-##Approach
+## Approach
 1.	Data Collection & Cleaning
 o	Imported and cleaned EV sales data using MySQL.
 o	Performed data wrangling and handled missing values.
@@ -24,7 +24,7 @@ o	Designed an interactive dashboard in Power BI:
 	Market share by manufacturer.
 	Recommendations for growth strategies.
 ________________________________________
-##Insights & Recommendations
+## Insights & Recommendations
 ✅ Top-selling brands:
 •	Tata Motors leads the 4-wheeler EV market; OLA dominates the 2-wheeler market.
 ✅ Geographic Trends:
@@ -41,11 +41,11 @@ ________________________________________
 •	Strengthen 4-wheeler market strategy in Delhi; increase 2-wheeler outreach in Goa.
 •	Introduce targeted marketing campaigns in underperforming regions (e.g., East India).
 ________________________________________
-##Tools Used
+## Tools Used
 •	SQL – Data extraction, transformation, and analysis.
 •	Power BI – Dashboard creation and visualization.
 ________________________________________
-##Impact:
+## Impact:
 •	Analyzed 500K+ records to identify market trends and business opportunities.
 •	Delivered insights that could potentially improve market share in India by 5%.
 •	Streamlined the reporting process using SQL and Power BI, increasing data analysis efficiency by 30%.
