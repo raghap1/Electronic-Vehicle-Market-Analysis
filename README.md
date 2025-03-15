@@ -2,7 +2,7 @@
 
 ## Project background & Overview
 AtliQ Motors, a leading US-based electric vehicle (EV) manufacturer with a 25% market share in North America, aimed to expand into the Indian market, where its share is less than 2%. Hence, conducting a detailed market study to understand the existing EV market in India and identify growth opportunities.
-Objective
+## Objective
 •	Analyze the EV and hybrid vehicle sales data in India using key metrics 
 	1. Penetration rate -  (Electric Vehicles Sold / Total Vehicles Sold) * 100  -    This indicates the adoption level of electric vehicles in a state.
 	2. Compound Annual Growth(CAGR) - [(Ending Value / Beginning Value) ** 1/n] -1 - This measures the mean annual growth rate over a specified period longer than one year. 
