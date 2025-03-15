@@ -24,6 +24,8 @@ ________________________________________
 	- Market share by manufacturer.
 	- Recommendations for growth strategies.
 ________________________________________
+## Dashboard Interaction
+<a href = "">Dashboard Link</a>
 
 ## Insights & Recommendations
 - Top-selling brands:
