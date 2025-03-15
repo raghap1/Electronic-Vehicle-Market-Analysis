@@ -9,8 +9,8 @@ Objective
 ________________________________________
 ## Approach
 1.	Data Collection & Cleaning
-o	Imported and cleaned EV sales data using MySQL.
-o	Performed data wrangling and handled missing values.
+	- Imported and cleaned EV sales data using MySQL.
+	- Performed data wrangling and handled missing values.
 2.	Exploratory Data Analysis (EDA)
 o	Used SQL to answer key business questions such as: 
 	Top-selling EV brands and models.
