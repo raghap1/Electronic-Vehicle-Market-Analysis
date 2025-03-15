@@ -53,7 +53,10 @@ ________________________________________
 2.	Delivered insights that could potentially improve market share in India by 5%.
 3.	Streamlined the reporting process using SQL and Power BI, increasing data analysis efficiency by 30%.
 
+![Home Page](https://github.com/user-attachments/assets/788f0198-8e02-4e8f-94b2-0535f25b36ae)
+
 ![State View](https://github.com/user-attachments/assets/7f16f604-8990-4a99-b1b0-3e8120b678c7)
 
+![Maker View](https://github.com/user-attachments/assets/56cc35db-3cd8-4d98-b3a3-23688aa9b747)
 
 
