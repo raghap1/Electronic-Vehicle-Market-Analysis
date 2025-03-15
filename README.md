@@ -12,42 +12,42 @@ ________________________________________
 	- Imported and cleaned EV sales data using MySQL.
 	- Performed data wrangling and handled missing values.
 2.	Exploratory Data Analysis (EDA)
-o	Used SQL to answer key business questions such as: 
-	Top-selling EV brands and models.
-	Regional variations in sales.
-	Seasonality and demand patterns.
-	Impact of government policies and infrastructure on sales.
+	- Used SQL to answer key business questions such as: 
+	- Top-selling EV brands and models.
+	- Regional variations in sales.
+	- Seasonality and demand patterns.
+	- Impact of government policies and infrastructure on sales.
 3.	Data Visualization & Dashboarding
-o	Designed an interactive dashboard in Power BI: 
-	State-wise and category-wise sales distribution.
-	Monthly and seasonal sales trends.
-	Market share by manufacturer.
-	Recommendations for growth strategies.
+	- Designed an interactive dashboard in Power BI: 
+	- State-wise and category-wise sales distribution.
+	- Monthly and seasonal sales trends.
+	- Market share by manufacturer.
+	- Recommendations for growth strategies.
 ________________________________________
 ## Insights & Recommendations
-✅ Top-selling brands:
-•	Tata Motors leads the 4-wheeler EV market; OLA dominates the 2-wheeler market.
-✅ Geographic Trends:
-•	Highest EV sales in Maharashtra, Karnataka, Kerala, Delhi, and Goa.
-•	Lowest EV sales in East Indian states like Nagaland, Arunachal Pradesh, Manipur and Andaman & Nicobar.
-✅ Category Preferences:
-•	Delhi: Higher demand for 4-wheelers due to better infrastructure and favorable government policies.
-•	Goa: Similar demand for both 2-wheelers and 4-wheelers.
-✅ Seasonality:
-•	Peak demand: March (end of financial year).
-•	Low demand: May and June (likely due to extreme weather).
-✅ Recommendations:
-•	Focus on metropolitan cities with favorable infrastructure and government incentives.
-•	Strengthen 4-wheeler market strategy in Delhi; increase 2-wheeler outreach in Goa.
-•	Introduce targeted marketing campaigns in underperforming regions (e.g., East India).
+- Top-selling brands:
+	- Tata Motors leads the 4-wheeler EV market; OLA dominates the 2-wheeler market.
+- Geographic Trends:
+	- Highest EV sales in Maharashtra, Karnataka, Kerala, Delhi, and Goa.
+	- Lowest EV sales in East Indian states like Nagaland, Arunachal Pradesh, Manipur and Andaman & Nicobar.
+- Category Preferences:
+	- Delhi: Higher demand for 4-wheelers due to better infrastructure and favorable government policies.
+	- Goa: Similar demand for both 2-wheelers and 4-wheelers.
+- Seasonality:
+	- Peak demand: March (end of financial year).
+	- Low demand: May and June (likely due to extreme weather).
+- Recommendations:
+	- Focus on metropolitan cities with favorable infrastructure and government incentives.
+	- Strengthen 4-wheeler market strategy in Delhi; increase 2-wheeler outreach in Goa.
+	- Introduce targeted marketing campaigns in underperforming regions (e.g., East India).
 ________________________________________
 ## Tools Used
-•	SQL – Data extraction, transformation, and analysis.
-•	Power BI – Dashboard creation and visualization.
+	- SQL – Data extraction, transformation, and analysis.
+	- Power BI – Dashboard creation and visualization.
 ________________________________________
 ## Impact:
-•	Analyzed 500K+ records to identify market trends and business opportunities.
-•	Delivered insights that could potentially improve market share in India by 5%.
-•	Streamlined the reporting process using SQL and Power BI, increasing data analysis efficiency by 30%.
+	- Analyzed 500K+ records to identify market trends and business opportunities.
+	- Delivered insights that could potentially improve market share in India by 5%.
+	- Streamlined the reporting process using SQL and Power BI, increasing data analysis efficiency by 30%.
 
 
